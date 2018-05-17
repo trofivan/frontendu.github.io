@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Fira Sans Bold";
+  font-weight: bold;
+  src: 
+    url(../assets/FiraSans-Bold.woff2),
+    url(../assets/FiraSans-Bold.woff);
+}
+
+@font-face {
+  font-family: "Fira Sans Light";
+  font-weight: 300;
+  src:
+    url(../assets/FiraSans-Light.woff2),
+    url(../assets/FiraSans-Light.woff);
+}
